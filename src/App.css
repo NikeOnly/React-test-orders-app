@@ -1,0 +1,16 @@
+.table-container {
+    margin: 0;
+}
+
+.button-to-main {
+    margin: 10px 0 20px;
+}
+
+.main-text {
+    margin: 10px 0 20px;
+}
+
+.main-buttons-container {
+    display: flex;
+    justify-content: space-around;
+}
